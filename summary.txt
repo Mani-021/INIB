@@ -1,0 +1,13 @@
+SALES DATA ANALYSIS — RESULTS
+Rows in original file: 185950
+Rows after cleaning: 185686
+Rows removed during cleaning: 264
+Total revenue: $34,465,537.94
+Unique orders: 178437
+Units sold: 208,812
+Average revenue per order: $193.15
+Highest-revenue product: Macbook Pro Laptop
+Highest-revenue city: San Francisco
+Highest-revenue month number: 12
+
+Source: the Sales Data.csv file supplied for this project. Figures are calculated from the cleaned records; revenue is Quantity Ordered × Price Each.
